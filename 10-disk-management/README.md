@@ -112,6 +112,7 @@ mount /dev/vg_name/lv_name /mnt
 ```bash
 mkswap /dev/sdX
 ```
+
 ### Enable Swap
 ```bash
 swapon /dev/sdX
