@@ -1,4 +1,4 @@
-# File management in Linux 
+# File management in Linux
 
 ### File and Directory Management
 1. **`ls`** – Lists files and directories in the current location.
@@ -22,6 +22,6 @@
 17. **`nano file.txt`** – Opens a simple text editor.
 18. **`vi file.txt`** – Opens a powerful text editor.
 19. **`echo 'Hello' > file.txt`** – Writes text to a file, overwriting existing content.
-20. **`echo 'Hello' >> file.txt`** – Appends text to a file without overwriting.
+20. **`echo 'Hello' >> file.txt`** – Appends text to a file without overwriting. 
 
 
